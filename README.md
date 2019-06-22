@@ -1,6 +1,6 @@
 # AirplaneTicketFirefox
 
-The system for analyzing the purchase of Airplane tickets.
+The firefox addon for analyzing the purchase of Airplane tickets.
 
 ### Installing
 
