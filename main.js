@@ -1,11 +1,11 @@
 /**
 *
-* @Name : PlaneTicketFirefox/main.js
+* @Name : AirplaneTicketFirefox/main.js
 * @Version : 1.0
 * @Programmer : Max
 * @Date : 2019-06-23
-* @Released under : https://github.com/BaseMax/PlaneTicketFirefox/blob/master/LICENSE
-* @Repository : https://github.com/BaseMax/PlaneTicketFirefox
+* @Released under : https://github.com/BaseMax/AirplaneTicketFirefox/blob/master/LICENSE
+* @Repository : https://github.com/BaseMax/AirplaneTicketFirefox
 *
 **/
 document.body.style.border = "25px solid yellow";
