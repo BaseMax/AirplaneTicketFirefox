@@ -10,7 +10,7 @@
 	"content_scripts": [
 		{
 			"js": ["main.js"],
-			"matches": ["https://thr.ttgroup.ir/Systems/FA/Reservation/Flight_NewReservation_Successfull.aspx*"],
+			"matches": ["https://site.com/path/file.php*"],
 		}
 	]
 }
