@@ -1,4 +1,4 @@
-# PlaneTicketFirefox
+# AirplaneTicketFirefox
 
 The system for analyzing the purchase of Airplane tickets.
 
